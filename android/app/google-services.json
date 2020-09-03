@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166091573744",
+    "firebase_url": "https://jogo-da-velha-edf62.firebaseio.com",
+    "project_id": "jogo-da-velha-edf62",
+    "storage_bucket": "jogo-da-velha-edf62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166091573744:android:1da42b5aad68436802b535",
+        "android_client_info": {
+          "package_name": "com.divyanshu.tic_tac_toe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166091573744-32ohbmd6m9vuf02ken892em8vhm2n86q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq7d8luIRhZQJNN3yHSYgYpX_IqvMNtog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166091573744-32ohbmd6m9vuf02ken892em8vhm2n86q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "2"
+}
